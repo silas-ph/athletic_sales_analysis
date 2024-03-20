@@ -33,8 +33,6 @@ The analysis then narrowed down to examine sales of Women’s Athletic Footwear 
 3. Set the `invoice date` as the index in a pivot table to observe sales trends, followed by printing the table for confirmation.
 4. Resampled the data by days (`D`) and weeks (`W`) to identify peak sales periods, using `.resample()` and summarizing the highest sales by day and week.
 
-Certainly! Here's how you can format the resources section for a Markdown document, such as a README.md file:
-
 ---
 
 ## Resources
